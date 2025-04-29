@@ -203,7 +203,9 @@ Publish the website in the given URL.
     </html>
 
 Create your views here.
+
 views.py
+
     from django.shortcuts import render
 from django.shortcuts import render 
 def findpower(request): 
